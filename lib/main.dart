@@ -2,9 +2,9 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:fight_club_1/fight_club_colors.dart';
-import 'package:fight_club_1/fight_club_icons.dart';
-import 'package:fight_club_1/fight_club_images.dart';
+import 'package:fight_club/fight_club_colors.dart';
+import 'package:fight_club/fight_club_icons.dart';
+import 'package:fight_club/fight_club_images.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
