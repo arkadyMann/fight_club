@@ -5,10 +5,10 @@
 
 // @dart = 2.15
 
-// When `package:fight_club/main.dart` defines `main`, that definition is shadowed by the definition below.
-export 'package:fight_club/main.dart';
+// When `package:flutter_fight_club/main.dart` defines `main`, that definition is shadowed by the definition below.
+export 'package:flutter_fight_club/main.dart';
 
-import 'package:fight_club/main.dart' as entrypoint;
+import 'package:flutter_fight_club/main.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:path_provider_ios/path_provider_ios.dart';

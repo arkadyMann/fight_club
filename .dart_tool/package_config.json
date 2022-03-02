@@ -260,13 +260,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "fight_club",
+      "name": "flutter_fight_club",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-03-02T16:43:19.887417Z",
+  "generated": "2022-03-02T21:15:27.312919Z",
   "generator": "pub",
   "generatorVersion": "2.16.0"
 }

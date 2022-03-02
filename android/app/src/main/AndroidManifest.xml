@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_fight_club">
+    package="com.example.fight_club">
    <application
-        android:label="flutter_fight_club"
+        android:label="fight_club"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
