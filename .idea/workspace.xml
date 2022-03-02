@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec937b5-29eb-4f17-9170-6cc6b4608942" name="Default Changelist" comment="hometask_widgets_2" />
+    <list default="true" id="5ec937b5-29eb-4f17-9170-6cc6b4608942" name="Default Changelist" comment="hometask_widgets_2 os files" />
     <list id="26655aed-2c2a-42bd-8f7c-f285fbdda750" name="hometask_widgets_2" comment="hometask_widgets_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -103,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646210870635</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hometask_widgets_2">
+      <created>1646229157127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646229157127</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hometask_widgets_2 os files">
+      <created>1646229198406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646229198406</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +138,7 @@
     <MESSAGE value="version1" />
     <MESSAGE value="version1.1" />
     <MESSAGE value="hometask_widgets_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hometask_widgets_2" />
+    <MESSAGE value="hometask_widgets_2 os files" />
+    <option name="LAST_COMMIT_MESSAGE" value="hometask_widgets_2 os files" />
   </component>
 </project>
