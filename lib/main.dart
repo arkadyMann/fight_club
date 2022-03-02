@@ -1,6 +1,10 @@
 // ignore_for_file: prefer_const_constructors
 import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:fight_club/fight_club_colors.dart';
+import 'package:fight_club/fight_club_icons.dart';
+import 'package:fight_club/fight_club_images.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(const MyApp());
