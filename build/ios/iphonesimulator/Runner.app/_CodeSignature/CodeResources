@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		0USgOFA/3G8CVRO51jjl0mPh/4s=
+		ExfK+OtY5a2rEj7rcHahJl5Vs3g=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		GZnNhLUMLD30UzI7KDe7iHzEjAQ=
+		UUg4KlfWRrgnQSVefUcaPM0s0ME=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		lfRx3Ytp4/HRccYCsko4m+dOfjk=
+		23F1deCG5OacEPnwEvH9yRHqFB4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -140,9 +140,17 @@
 		<data>
 		qlUhVN7rndbtireqU54xqxyspmA=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/enemy-avatar.png</key>
+		<data>
+		03SvD5NA8SZvSP5acmDHZhnZozQ=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/enemy.png</key>
 		<data>
 		03SvD5NA8SZvSP5acmDHZhnZozQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/you-avatar.png</key>
+		<data>
+		UHLtbjk2UX2ngBrJwjaDfSy03fA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/you.png</key>
 		<data>
@@ -162,7 +170,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		HsGVscf1UuOswjFOK0kCasd4suM=
+		bQ5tjz8ju36/7DbMQbU+hEmLnOc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -174,7 +182,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		CHocSJdIh5eplcIcK5HsVyVPGzQ=
+		kNpk9WRTWrwrNTSkkPkmkGJJ2sg=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -266,11 +274,11 @@
 		</data>
 		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		3vuPXkuWqVBhPVHy05FC2KJkW38=
+		Jf2EuTeq5xtv5pZndcWGaWOkSY8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DVk4OX3ofcYOsnv1T+PPht9JN90=
+		d2vkHYenvK9DjZ9lnKDiTdz+iZo=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -465,7 +473,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISEn06jfrKyTobSkAIE4MoKC9qwDIxMIYvJAKUglcyU=
+			KwQK+gEg3S8+djn2q+WkyY2QGaD2fEdTCnf6OaA+FDE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -479,14 +487,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hdxb5VSJz7ls+cBW8XUR8AYuuiPHCY/P8vvMUHMTb1Y=
+			7QAX76oU8Lpi1mVFTD52p/k8bwHokGclUSYjvwSiWhc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ZBtzOJXvl5131hPmFE5JZc6GbfhQo9yYe67gfPYZdU=
+			7FqeY+mPFAH10RmKrVcKenthc+vLOutLRcENRC4OaK8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -517,11 +525,25 @@
 			VuikqptgGwUrhhreoBHX+c5cNHMcJCTnEqkKs2uEorw=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/enemy-avatar.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5j86yMJcbL0UjdvB4qImPlBMwCV7ouEcjasMF7meKTk=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/enemy.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			5j86yMJcbL0UjdvB4qImPlBMwCV7ouEcjasMF7meKTk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/you-avatar.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2frs1rkbOjzFLsiIOIAWZi1+SRbzDr0vK40hV7OG7Iw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/you.png</key>
@@ -556,7 +578,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BXEgTA4F2fLlQU2/SNH4dKedVC3bTNTYcoUZz2a9IVE=
+			+kR3J5we9kbDIlBKh5KOha479jDu0NNw2+PFwuVXUZc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -577,7 +599,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6757Wzt8krY/pthIJDx1VuPgCGPTE48C1NRTv2zwKmM=
+			C9ZqWd6BScPHV9bE/q8fDiuuCMFMz1ZUQopfFgzFgrs=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -738,7 +760,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l1Rq6CaifnIIjlY/oqSmPsQ3lRatQMOJniigmSWQeVg=
+			RYhO/gFKRosZu40BFFHG/j3uTLVkTL+kBm44Q11aA9o=
 			</data>
 		</dict>
 	</dict>
