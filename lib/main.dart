@@ -259,7 +259,7 @@ class FightersInfo extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 12),
-                  Image.asset(FightClubImages.yourAvatar,
+                  Image.asset(FightClubImages.youAvatar,
                       width: 92, height: 92),
                 ],
               ),
